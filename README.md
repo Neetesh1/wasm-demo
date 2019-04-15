@@ -6,6 +6,6 @@ To run this demo open the cammand run below cammand.
 1. npm i
 2. node server
 that's it
-Now Open 
+Now Open debugger and go to console and type squarer(10)
 
 For more info visit https://www.youtube.com/watch?v=5XtA3k07jEQ 
